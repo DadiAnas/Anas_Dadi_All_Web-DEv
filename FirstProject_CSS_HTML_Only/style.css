@@ -1,0 +1,233 @@
+/* GENERAL */
+*
+{
+    margin:0;
+    padding:0;
+}
+ul
+{
+    list-style: none;
+}
+a
+{
+    text-decoration:none;color:#444;
+}
+a:hover{
+    color:orange;
+}
+.button-1:hover{
+    background:blue;
+}
+small{
+    font-style:italic;
+}
+body
+{
+    font-family:Ariel,sans-s;
+    font-size:15px;
+}
+h2;
+{
+    color:#444;
+    font-size:55px;
+}
+h1
+{
+    font-family:'Crete round',sans-serif;
+    font-size:45px;
+    color:#444;
+}
+h4
+{
+    font-size:24px;
+    color:#444;
+}
+p
+{
+    line-height:20px;
+    color:#777
+}
+.wrapper
+{
+    width:940px;
+    margin:0 auto;
+    padding:0 10px
+}
+.orange
+{
+    color:orange;
+}
+
+/*HEADER */
+header
+{
+    height:120px;
+}
+header h1
+{
+    margin-top:32px;
+    float:left;
+}
+header nav
+{
+    float:right;
+    margin-top:50px;
+}
+header nav li
+{
+    display:inline-block;
+}
+header nav li a
+{
+    text-transform:uppercase;
+    font-weight:bold;
+    margin-right:20px;
+}
+
+
+/* MAIN IMAGE */
+#main-image
+{
+    height:580px;
+    background:url("image/iStock_000062411790_Large-1024x670-panorama.jpg") center;
+        
+}
+#main-image h2
+{
+    font-weight:normal;
+    text-transform:uppercase;
+    text-align:center;
+    padding: 150px 0 40px 0;
+    margin-bottom:20px;
+}
+.button-1
+{
+    display:block;
+    width:120px;
+    height:50px;
+    background:orange;
+    color:white;
+    font-size:20px;
+    margin:0 auto;
+    text-align:center;
+    line-height:50px;
+    border-radius:4px;
+}
+
+/* STEPS */
+#steps div ul
+{
+    margin:80px 0;
+}
+#steps ul li
+{
+    width: 300px;
+    float:left;
+    padding-top:140px;
+    text-align: center;
+    margin-right:10px;
+}
+#steps h4
+{
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+steps p
+{
+    margin-bottom: 20px;
+}
+#step-1
+{
+    background:url("image/030%20steps-icon-3.png") no-repeat top center;
+}
+#step-2
+{
+    background:url("image/030%20steps-icon-3.png") no-repeat top center;
+    
+}
+#step-3
+{
+    background: url("image/030%20steps-icon-3.png") no-repeat top center;
+}
+.clear
+{
+    clear:both;
+}
+/* POSSIBILITIES */
+#possibilities
+{
+    background-color:#efefef;
+    padding:60px 0;
+}
+#possibilities article
+{
+    width:460px;
+    height:270px;
+    float:left;
+    border-radius:15px;
+}
+#possibilities article:first-child
+{
+    margin-right:20px;
+}
+.overlay
+{
+    background:rgba(255,255,255,0.95);
+    height:100%;
+    width:190px;
+    padding:20px;
+    border-radius:10px 0 0 10px;
+        
+}
+article h4
+{
+    border-bottom: 1px solid #ddd;
+    padding-bottom:20px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    text-align:center;
+}
+#possibilities p
+{
+    text-align:center;
+}
+.button-2:
+{
+    color:orange;
+    background-color:orange;
+    padding:6px 20px;
+    border-radius:3px;
+    
+}
+.button-2:hover
+{
+    color:#fff;
+    background-color:blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
